@@ -22,7 +22,7 @@ class App {
   routes() {    
 
     this.app.route("/").get((req, res) => {
-      res.send({ result: this.status });
+     res.send({ result: 'v1' });
     });
   }
 }
