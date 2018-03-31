@@ -14,7 +14,12 @@
     "typescript": "^2.6.2"
   },
   "dependencies": {
+    "@types/body-parser": "^1.16.8",
     "@types/express": "^4.11.1",
-    "express": "^4.16.2"
+    "@types/johnny-five": "0.0.35",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "johnny-five": "^0.14.2",
+    "nodemon": "^1.17.3"
   }
 }
